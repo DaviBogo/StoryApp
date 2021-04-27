@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.storyapp">
+
+    <application
+        android:label="@string/jonas"
+        android:allowBackup="true"
+        android:icon="@mipmap/jonas"
+        android:roundIcon="@mipmap/jonas"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.android.storyapp.activity.MessageListActivity"/>
+        <activity android:name="com.android.storyapp.activity.CustomizeActivity"/>
+        <activity android:name="com.android.storyapp.activity.EndGameActivity"/>
+        <activity android:name="com.android.storyapp.activity.MainMenuActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

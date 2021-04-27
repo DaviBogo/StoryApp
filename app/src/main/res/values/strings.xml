@@ -1,0 +1,22 @@
+<resources>
+    <string name="jonas">App de História</string>
+    <string name="play">Jogar</string>
+    <string name="customize">Criar uma História</string>
+    <string name="customizeEndGame">Criar um Fim de Jogo</string>
+    <string name="back">Voltar</string>
+    <string name="finishCustomization">Finalizar História</string>
+    <string name="next">Próximo</string>
+    <string name="writeJonas">Escreva a fala de Jonas</string>
+    <string name="writeAnswer1">Primeira resposta</string>
+    <string name="writeAnswer2">Segunda resposta</string>
+    <string name="addDialog">Adicionar Diálogo</string>
+    <string name="happinessDescription">Aqui você seleciona quanto essa resposta influencia no fim do jogo.</string>
+    <string name="save">Salvar</string>
+    <string name="send">Enviar</string>
+    <string name="minValue">Menor valor</string>
+    <string name="maxValue">Maior Valor</string>
+    <string name="you">você</string>
+    <string name="endGameText">Texto para o final do jogo</string>
+    <string name="addEndGame">Adicionar Fim de Jogo</string>
+    <string name="removeAll">Refazer Diálogos</string>
+</resources>
